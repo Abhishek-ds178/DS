@@ -1,2 +1,2 @@
-# THIRD SEM
+# THIRD SEM(DS LAB)
 Lab problems
