@@ -1,2 +1,2 @@
-# DS
+# THIRD SEM
 Lab problems
